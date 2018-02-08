@@ -1,13 +1,13 @@
-# Fullpage-Demo für REDAXO 5
+# REDAXO 5 Fullpage-Demo
 
-Die Fullpage-Demo für REDAXO demonstriert eine sogenannte "Onepage-Website". Die Root-Kategorien werden automatisch zu den einzelnen Seiten der Website zusammengesetzt und die Hauptnavigation wird automatisch generiert.
+This fullpage demo import for REDAXO 5 helps to build a so called "Onepage-Website". The root kategories will automatically assembled as  seperate pages of the website and the main navigation is generated automatically.
 
 ![Screenshot](https://raw.githubusercontent.com/FriendsOfREDAXO/demo_fullpage/assets/demo_fullpage_01.jpg)
 
-Die Fullpage-Demo für REDAXO ist völlig frei verwendbar, sowohl für private als auch für kommerzielle Projekte!
-Die Demo vermeidet ganz bewusst Abhängigkeiten von weiteren Addons und ist so einfach wie möglich gehalten.
+This fullpage demo import for REDAXO 5 is useable free for any privat or commercial project!
+This demo version avoids deliberately the need of further addons and keeps things as simple as possible.
 
-## Verwendete Software
+## Used Software
 
 * REDAXO - https://redaxo.org/
 * jQuery - https://jquery.com/
@@ -21,12 +21,12 @@ Die Demo vermeidet ganz bewusst Abhängigkeiten von weiteren Addons und ist so e
 
 ---
 
-### Autor: Friends Of REDAXO
+### Author: Friends Of REDAXO
 
 * [REDAXO](http://www.redaxo.org)
 * [FriendsOfREDAXO](https://github.com/FriendsOfREDAXO)
 
-### Projekt-Lead
+### Project-Lead
 
 * [@aberhard](https://github.com/aeberhard), [Andreas Eberhard / aesoft.de](http://aesoft.de)
 
